@@ -1,0 +1,14 @@
+Package: com.douliuroczy.campad
+Name: IPhone Cam for iPad 
+Version: 1.0
+Size: 120
+Architecture: iphoneos-arm
+Description: iPhone camera UI for iPads.      thanks to rob311 for the help
+Maintainer: Adel Hammoud <rs.ss.zl1.z28@gmail.com>
+Author: Adel Hammoud <rs.ss.zl1.z28@gmail.com>
+Section: System Tweaks
+MD5sum: 709dfc92818f48452f41cfb9374339fd
+SHA1sum: 78d7676b3447c46088210218f7f39a333a2796d6
+SHA256sum: 7dcbc5baf6f9b443281968cca63b4dbda6d79d7b075c7bd9141bc2f19e0c5201
+Filename: debs//com.douliuroczy.campad_1.0_iphoneos-arm.deb
+
